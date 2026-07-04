@@ -37,5 +37,11 @@ The statements are executed, one by one, in the same order as they are written
 
 New line :
 " \n "
- << 
-  
+ << endl
+
+
+Comments in C++ :
+//  ->  Single line comment 
+/*    */  ->  Multiline comment 
+
+
