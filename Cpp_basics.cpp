@@ -30,3 +30,12 @@ using namespace std means that we can use names for objects and variables from t
 C++ is case-sensitive
 every statement end s with a semicolon ;
 
+The statements are executed, one by one, in the same order as they are written
+
+
+
+
+New line :
+" \n "
+ << 
+  
