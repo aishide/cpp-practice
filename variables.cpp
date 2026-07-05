@@ -42,3 +42,21 @@ bool myBoolean = true;
     return 0;
 }
 
+
+
+
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int x = 34;
+    int y = 66;
+    int sum = x + y;
+    
+    cout << "The sum of " << x << " and " << y  << " is " << sum;
+    return 0;
+}
+
