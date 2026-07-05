@@ -60,3 +60,25 @@ int main() {
     return 0;
 }
 
+
+
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int x = 34 , y = 76 , z = 6;
+    int sum = x + y + z;
+    
+    int w , e , r ;
+    w = e = r = 4;
+    cout << w << endl;
+    cout << e << endl;
+    cout << r << endl;
+    
+    cout << "The sum is " << sum;
+    return 0;
+}
+
