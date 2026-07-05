@@ -9,3 +9,8 @@ double
 char 
 string 
 bool
+
+
+syntax : 
+type variableName = value;
+
