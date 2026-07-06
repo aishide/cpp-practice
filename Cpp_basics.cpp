@@ -45,3 +45,5 @@ Comments in C++ :
 /*    */  ->  Multiline comment 
 
 
+All C++ variables must be identified with unique names.
+These unique names are called identifiers.
