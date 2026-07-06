@@ -54,3 +54,17 @@ These unique names are called identifiers.
 *Reserved words (like C++ keywords, such as int) cannot be used as names
 
 
+
+
+constant  :
+const int minutesPerHour = 60;
+(unchangable and read only variable)
+
+const int minutesPerHour = 60;
+This however, will not work:
+
+const int minutesPerHour;
+minutesPerHour = 60; // error
+
+
+
