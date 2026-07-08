@@ -100,3 +100,19 @@ char a = 65, b = 66, c = 67;
 cout << a;
 cout << b;
 cout << c;
+
+
+
+
+
+
+for using string includ the string library 
+
+// Include the string library
+#include <string>
+
+// Create a string variable
+string greeting = "Hello";
+
+// Output string value
+cout << greeting;
