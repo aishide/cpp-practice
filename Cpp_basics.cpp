@@ -71,3 +71,22 @@ minutesPerHour = 60; // error
 float vs. double
 
 The precision of a floating point value indicates how many digits the value can have after the decimal point. The precision of float is only six or seven decimal digits, while double variables have a precision of about 15 digits. Therefore it is safer to use double for most calculations.
+
+
+
+
+
+Boolean data type is giving output in 1 and 0 
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  bool isCodingFun = true;
+  bool isFishTasty = false;
+  cout << isCodingFun << "\n";
+  cout << isFishTasty;
+  return 0;
+}
+
+
