@@ -90,3 +90,9 @@ int main() {
 }
 
 
+
+char example : 
+
+char myGrade = 'B';
+cout << myGrade;
+
