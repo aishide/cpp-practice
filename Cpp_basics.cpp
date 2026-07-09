@@ -116,3 +116,10 @@ string greeting = "Hello";
 
 // Output string value
 cout << greeting;
+
+
+
+
+
+
+Operators are used to perform operations on variables and values.
