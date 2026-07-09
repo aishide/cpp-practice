@@ -150,3 +150,15 @@ double a = 10.0;
 double b = 3.0;
 cout << (a / b) << "\n";   // Decimal division, result is 3.333...
 
+
+
+
+Precedencec rule  : 
+() - Parentheses
+*, /, % - Multiplication, Division, Modulus
++, -   - Addition, Subtraction
+>, <, >=, <= - Comparison
+==, != - Equality
+&& - Logical AND
+|| - Logical OR
+= - Assignment
