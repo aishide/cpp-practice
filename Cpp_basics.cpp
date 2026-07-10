@@ -162,3 +162,10 @@ Precedencec rule  :
 && - Logical AND
 || - Logical OR
 = - Assignment
+
+
+
+
+A string variable contains a collection of characters surrounded by double quotes (""):
+example : 
+string greeting = "Hello";
