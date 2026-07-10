@@ -168,4 +168,20 @@ Precedencec rule  :
 
 A string variable contains a collection of characters surrounded by double quotes (""):
 example : 
-string greeting = "Hello";
+
+// Include the string library
+#include <string>
+
+string greeting = "Hello and welcome!";
+cout << greeting;
+
+
+
+string concatination  : 
+string firstName = "John ";
+string lastName = "Doe";
+string fullName = firstName + lastName;
+cout << fullName;
+
+
+
