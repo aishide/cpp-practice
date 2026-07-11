@@ -185,3 +185,7 @@ cout << fullName;
 
 
 
+string firstName = "John ";
+string lastName = "Doe";
+string fullName = firstName.append(lastName);
+cout << fullName;
