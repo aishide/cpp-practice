@@ -201,3 +201,4 @@ int z = x + y;      // z will be 30 (an integer)
 cpp maths  :
 
 cout << max(5, 10);
+cout << min(5, 10);
