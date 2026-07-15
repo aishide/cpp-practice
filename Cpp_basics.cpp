@@ -219,6 +219,8 @@ int main() {
     return 0;
 }
 
+size()  is alias of length() function. Both can be used to get the length of a string.
+
 
 
 
