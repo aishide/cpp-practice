@@ -246,6 +246,20 @@ string myString = "Hello";
 cout << myString[myString.length() - 1];
 // Outputs o
 
+Change characters in a string :-
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    string name = "Aishi";
+    cout << "Original name : " << name << endl;
+    name[2] = 'c';
+    cout << "The new name is - " << name << endl;
+
+    return 0;
+}
 
 
 cpp maths  :
