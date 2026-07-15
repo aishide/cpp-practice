@@ -212,7 +212,7 @@ String Length :-
 using namespace std;
 
 int main() {
-    // Write C++ code here
+    
     string name = "Aishi";
     cout << "The name is : " << name << " And the string length is : " << name.length();
 
@@ -221,6 +221,23 @@ int main() {
 
 size()  is alias of length() function. Both can be used to get the length of a string.
 
+
+Access Strings :- 
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    string name = "Aishi";
+    cout << "The first letter in the name - " << name << "  is : " << name[0] << "\n";
+    cout << "The second letter is - " << name[1] << endl;
+    cout << "The Fifth letter is - " << name[4] << endl;
+
+// place = n -1 
+
+    return 0;
+}
 
 
 
