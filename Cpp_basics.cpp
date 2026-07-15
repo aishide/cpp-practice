@@ -205,6 +205,24 @@ int y = 20;
 string z = x + y;
 
 
+
+String Length :- 
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Write C++ code here
+    string name = "Aishi";
+    cout << "The name is : " << name << " And the string length is : " << name.length();
+
+    return 0;
+}
+
+
+
+
+
 cpp maths  :
 
 cout << max(5, 10);
