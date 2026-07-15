@@ -240,6 +240,12 @@ int main() {
 }
 
 
+To print last character : 
+
+string myString = "Hello";
+cout << myString[myString.length() - 1];
+// Outputs o
+
 
 
 cpp maths  :
