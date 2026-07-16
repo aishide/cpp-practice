@@ -282,7 +282,8 @@ int main() {
 }
 
 
-
+Special characters in string :
+string txt = "We are the so-called \"Vikings\" from the north.";
 
 
 
