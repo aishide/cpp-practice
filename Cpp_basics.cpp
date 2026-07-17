@@ -286,6 +286,33 @@ Special characters in string :
 string txt = "We are the so-called \"Vikings\" from the north.";
 
 
+getline() function : 
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    string fullname , fullname1;
+    
+    //Wont get a full name as it has space 
+    cout << "Write your full name : ";
+    cin >> fullname;
+    cout << "Your full name is  : " << fullname << endl;
+
+    
+    cin.ignore();
+    //To get a full name with space 
+    cout << "Write your full name : ";
+    getline(cin , fullname1);
+    cout << "The full name now after getline() function is : " <<fullname1 << endl;
+
+    return 0;
+}
+
+
+
+
 
 cpp maths  :
 
