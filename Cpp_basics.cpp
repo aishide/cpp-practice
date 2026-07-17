@@ -324,6 +324,14 @@ int main() {
 
 
 
+string not supported in c so c++ is extension of c and it supports string data type.
+string using char is array []  : 
+
+string greeting1 = "Hello";  // Regular String
+char greeting2[] = "Hello";  // C-Style String (an array of characters)
+
+
+
 cpp maths  :
 
 cout << max(5, 10);
