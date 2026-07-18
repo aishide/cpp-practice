@@ -349,3 +349,7 @@ int main() {
   cout << "The natural logarithm of 2 is: " <<log(2) << "\n";
   return 0;
 }
+
+
+
+For this, C++ has a bool data type, which can take the values true (1) or false (0).
