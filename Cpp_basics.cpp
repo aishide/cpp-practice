@@ -365,3 +365,19 @@ int main() {
   cout << isFishTasty;
   return 0;
 }
+
+
+//To write output in true and false instead of 1 and 0 we can use boolalpha keyword
+#include <iostream>
+using namespace std;
+
+int main() {
+  bool isCodingFun = true;
+  bool isFishTasty = false;
+
+  cout << boolalpha; // enable printing "true"/"false"
+
+  cout << isCodingFun << "\n";   // Outputs true
+  cout << isFishTasty << "\n";  // Outputs false
+  return 0;
+}
