@@ -375,7 +375,8 @@ int main() {
   bool isCodingFun = true;
   bool isFishTasty = false;
 
-  cout << boolalpha; // enable printing "true"/"false"
+  // boolalpha is used to print true and false insted of 1 and 0
+  cout << boolalpha; 
 
   cout << isCodingFun << "\n";   // Outputs true
   cout << isFishTasty << "\n";  // Outputs false
