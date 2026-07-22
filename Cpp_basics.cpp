@@ -382,3 +382,15 @@ int main() {
   cout << isFishTasty << "\n";  // Outputs false
   return 0;
 }
+
+
+
+reseting to 1 and 0 instead of true and false we can use noboolalpha keyword
+
+bool isCodingFun = true;
+
+cout << boolalpha;   // print as true/false
+cout << isCodingFun << "\n";  // Outputs true
+
+cout << noboolalpha; // reset to 1/0
+cout << isCodingFun << "\n";  // Outputs 1
