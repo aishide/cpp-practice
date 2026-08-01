@@ -453,3 +453,18 @@ if (time < 18) {
 }
 
 // Outputs "Good evening."
+
+
+int time = 16;
+
+if (time < 12) {
+  cout << "Good morning.";
+} else if (time < 18) {
+  cout << "Good day.";
+} else {
+  cout << "Good evening.";
+}
+
+// Outputs "Good day."
+
+
