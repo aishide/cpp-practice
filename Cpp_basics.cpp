@@ -444,3 +444,12 @@ if (myAge >= votingAge) {
 // Outputs: Old enough to vote!
 
 
+int time = 20;
+
+if (time < 18) {
+  cout << "Good day.";
+} else {
+  cout << "Good evening.";
+}
+
+// Outputs "Good evening."
