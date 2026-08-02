@@ -468,3 +468,14 @@ if (time < 12) {
 // Outputs "Good day."
 
 
+
+
+
+// Shorthand if else (Ternary Operator) :
+
+variable = (condition) ? expressionTrue : expressionFalse;
+
+example :
+int time = 20;
+string result = (time < 18) ? "Good day." : "Good evening.";
+cout << result;
