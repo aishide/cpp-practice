@@ -508,3 +508,14 @@ if (x > 10) {
 Output : 
 x is greater than 10
 y is also greater than 20
+
+
+
+
+//Logical Operators : 
+
+AND  : 
+
+if (a > b && c > a) {
+  cout << "Both conditions are true";
+}
