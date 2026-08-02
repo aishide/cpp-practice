@@ -519,3 +519,10 @@ AND  :
 if (a > b && c > a) {
   cout << "Both conditions are true";
 }
+
+
+OR : 
+
+if (a > b || a > c) {
+  cout << "At least one condition is true";
+}
