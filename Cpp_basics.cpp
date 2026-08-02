@@ -526,3 +526,9 @@ OR :
 if (a > b || a > c) {
   cout << "At least one condition is true";
 }
+
+NOT : 
+
+if (!(a > b)) {
+  cout << "a is NOT greater than b";
+}
