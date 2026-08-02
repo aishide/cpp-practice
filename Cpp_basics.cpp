@@ -472,10 +472,22 @@ if (time < 12) {
 
 
 // Shorthand if else (Ternary Operator) :
-
+Syntax : 
 variable = (condition) ? expressionTrue : expressionFalse;
 
 example :
 int time = 20;
 string result = (time < 18) ? "Good day." : "Good evening.";
 cout << result;
+
+
+//Nested If : 
+
+Syntax : 
+
+if (condition1) {
+  // code to run if condition1 is true
+  if (condition2) {
+    // code to run if both condition1 and condition2 are true
+  }
+}
