@@ -20,6 +20,7 @@ C++ can be found in today's operating systems, Graphical User Interfaces, and em
 
 
 DIFFERENCE BETWEEN C and C++ 
+
 C++ supports classes and objects, while C does not.
 
 
@@ -35,7 +36,11 @@ The statements are executed, one by one, in the same order as they are written
 
 
 
+
+
+
 New line :
+// To print in the next line
 " \n "
  << endl
 
