@@ -593,3 +593,8 @@ loops can execute a block of code as long as a specified condition is reached.
 - save time
 - reduce errors
 - they make code more readable.
+
+Syntax : 
+while (condition) {
+  // code block to be executed
+}
