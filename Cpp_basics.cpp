@@ -612,4 +612,25 @@ Output :
 1
 2
 3
-4
+4  
+
+//Nested for loop : 
+// Outer loop
+for (int i = 1; i <= 2; ++i) {
+  cout << "Outer: " << i << "\n"; // Executes 2 times
+
+  // Inner loop
+  for (int j = 1; j <= 3; ++j) {
+    cout << " Inner: " << j << "\n"; // Executes 6 times (2 * 3)
+  }
+}
+
+Output :
+Outer: 1
+ Inner: 1
+ Inner: 2
+ Inner: 3
+Outer: 2
+ Inner: 1
+ Inner: 2
+ Inner: 3
