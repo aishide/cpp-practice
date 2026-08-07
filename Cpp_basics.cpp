@@ -648,3 +648,14 @@ Output :
 1 2 3
 2 4 6
 3 6 9
+
+// Cpp break statement 
+The break statement can also be used to jump out of a loop.
+This example jumps out of the loop when i is equal to 4:
+
+for (int i = 0; i < 10; i++) {
+  if (i == 4) {
+    break;
+  }
+  cout << i << "\n";
+}
