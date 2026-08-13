@@ -10,7 +10,7 @@ int main() {
 
 
 
-omitting the line namespace 
+// omitting the line namespace line
 
 
 
