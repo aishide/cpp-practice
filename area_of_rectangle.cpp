@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    //Area of a rectangle 
+    //Area of a rectangle is length * breadth 
     
     float length = 2.33;
     float breadth = 5.67;
