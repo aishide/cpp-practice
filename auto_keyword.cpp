@@ -1,5 +1,5 @@
 // AISHI 
-
+// auto ~ automatic 
 The auto keyword automatically detects the type of a variable based on the value you assign to it.
 
 
