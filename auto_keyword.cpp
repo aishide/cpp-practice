@@ -2,7 +2,7 @@
 // auto ~ automatic 
 The auto keyword automatically detects the type of a variable based on the value you assign to it.
 
-
+//use of auto keyword here 
 auto x = 7;
 
 
