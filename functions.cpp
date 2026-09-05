@@ -6,5 +6,6 @@
 
 Syntax : 
 void myFunction() {
-  // code to be executed
+  // write the code you want here 
 }
+
