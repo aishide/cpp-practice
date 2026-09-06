@@ -9,3 +9,4 @@ void myFunction() {
   // write the code you want here 
 }
 
+void = means that the function does not have a return value. 
