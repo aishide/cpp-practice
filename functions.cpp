@@ -10,3 +10,15 @@ void myFunction() {
 }
 
 void = means that the function does not have a return value. 
+
+  // Create a function
+void myFunction() {
+  cout << "I just got executed!";
+}
+
+int main() {
+  myFunction(); // call the function
+  return 0;
+}
+
+// Outputs "I just got executed!"
