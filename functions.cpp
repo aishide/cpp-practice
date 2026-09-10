@@ -44,3 +44,12 @@ int main() {
 // I just got executed!
 // I just got executed!
 // I just got executed!
+
+
+
+
+// Paarameters 
+
+void functionName(parameter1, parameter2, parameter3) {
+  // code to be executed
+}
