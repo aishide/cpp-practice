@@ -96,3 +96,44 @@ int main() {
   cout << "Double: " << myNum2;
   return 0;
 }
+
+
+
+
+
+//LOCAL VARIABLE
+
+void myFunction() {
+  // Local variable that belongs to myFunction
+  int x = 5;
+
+  // Print the variable x
+  cout << x;
+}
+
+int main() {
+  myFunction();
+  return 0;
+}
+
+
+
+
+
+A local variable cannot be used outside the function it belongs to.
+If you try to access it outside the function, an error occurs:
+
+
+void myFunction() {
+  // Local variable that belongs to myFunction
+  int x = 5;
+}
+
+int main() {
+  myFunction();
+
+  // Print the variable x in the main function
+  cout << x;
+  return 0;
+}
+//ERRORRR!!
