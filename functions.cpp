@@ -143,6 +143,15 @@ int main() {
 
 
 
+Lambda function:
+[capture] (parameters) { code };
+
+
+
+
+
+
+
 Recursion : 
 
 * Recursion is the technique of making a function call itself.
