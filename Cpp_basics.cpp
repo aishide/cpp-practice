@@ -670,3 +670,23 @@ for (int i = 0; i < 10; i++) {
   }
   cout << i << "\n";
 }
+
+
+
+
+
+
+
+C++ Enums
+
+An enum is a special type that represents a group of constants (unchangeable values).
+To create an enum, use the enum keyword, followed by the name of the enum, and separate the enum items with a comma:
+
+enum Level {
+  LOW,
+  MEDIUM,
+  HIGH
+};
+
+
+Enum is short for "enumerations", which means "specifically listed".
