@@ -11,6 +11,7 @@ int main() {
 
 
 // omitting the line namespace line
+the normal ide way 
 
 
 
