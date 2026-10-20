@@ -1,5 +1,6 @@
 //Aishi DE 
-// here we will weite hwllo world code with cpp
+// here we will weite hello world code with cpp
+
 #include <iostream>
 using namespace std;
 
