@@ -1,5 +1,6 @@
 // Aishi De 
 
+// area of reactangle code 
 #include <iostream>
 using namespace std;
 
