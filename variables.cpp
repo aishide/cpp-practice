@@ -1,5 +1,7 @@
 // AISHI DE 
 
+
+//Variable 
 Variables are containers for storing data values.
 
 type variableName = value;
