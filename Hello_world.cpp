@@ -10,7 +10,7 @@ int main() {
 }
 
 
-
+//Another way of writing it 
 // omitting the line namespace line
 // the normal ide way 
 
