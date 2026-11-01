@@ -6,3 +6,5 @@ a quick function without naming it or declaring it separately.
 Syntax :
 [capture] (parameters) { code };
 
+Example :
+Here, message holds a lambda function that prints a message to the screen:-
