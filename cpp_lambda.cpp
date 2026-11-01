@@ -38,3 +38,5 @@ int main() {
 }
 //The auto keyword automatically deduces a variable's type from its initializer value at compile time, eliminating the need to write out long or complex type names manually.
 
+Result:
+7
