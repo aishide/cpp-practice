@@ -8,3 +8,11 @@ Syntax :
 
 Example :
 Here, message holds a lambda function that prints a message to the screen:-
+int main() {
+  auto message = []() {
+    cout << "Hello World!\n";
+  };
+
+  message();
+  return 0;
+}
