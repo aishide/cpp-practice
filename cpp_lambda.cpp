@@ -40,3 +40,8 @@ int main() {
 
 Result:
 7
+
+
+2. Passing Lambdas to Functions :
+pass a lambda function as an argument to another function.
+This is useful when you want to tell a function what to do, not just what data to use.
