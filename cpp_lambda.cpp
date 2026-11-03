@@ -68,3 +68,9 @@ Hello World!
   myFunction(message);
   return 0;
 }
+
+
+
+
+Using Lambdas in Loops : 
+
