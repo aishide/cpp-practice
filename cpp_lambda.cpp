@@ -60,6 +60,11 @@ int main() {
     cout << "Hello World!\n";
   };
 
+  
+Result:
+
+Hello World!
+Hello World!
   myFunction(message);
   return 0;
 }
