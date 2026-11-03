@@ -54,3 +54,8 @@ void myFunction(function<void()> func) {
   func();
   func();
 }
+
+int main() {
+  auto message = []() {
+    cout << "Hello World!\n";
+  };
