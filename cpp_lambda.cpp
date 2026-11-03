@@ -49,3 +49,8 @@ This is useful when you want to tell a function what to do, not just what data t
 #include <iostream>
 #include <functional> // Needed for std::function
 using namespace std;
+
+void myFunction(function<void()> func) {
+  func();
+  func();
+}
