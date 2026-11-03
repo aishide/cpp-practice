@@ -59,3 +59,7 @@ int main() {
   auto message = []() {
     cout << "Hello World!\n";
   };
+
+  myFunction(message);
+  return 0;
+}
