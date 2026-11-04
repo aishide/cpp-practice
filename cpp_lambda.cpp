@@ -141,3 +141,4 @@ Result:
   
   
 Regular Functions vs Lambda Functions
+a) Use a regular function
