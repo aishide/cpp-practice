@@ -118,3 +118,10 @@ Result:
 5. Capture by Reference
 Use the latest value of a variable (not just a copy), you can use [&] to capture it by reference.
 
+  int main() {
+  int x = 10;
+
+  auto show = [&x]() {
+    cout << x;
+  };
+
