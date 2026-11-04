@@ -85,3 +85,9 @@ int main() {
   }
   return 0;
 }
+
+
+Result:
+Number: 1
+Number: 2
+Number: 3
