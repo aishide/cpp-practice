@@ -116,6 +116,5 @@ Result:
 
 
 5. Capture by Reference
-
-
+Use the latest value of a variable (not just a copy), you can use [&] to capture it by reference.
 
