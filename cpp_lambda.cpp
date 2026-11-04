@@ -139,9 +139,15 @@ Result:
   
 
   
-  
+
+
 Regular Functions vs Lambda Functions
+
 a) Use a regular function
    - You plan to reuse the function in multiple places
    - You want to give the function a clear, meaningful name
    - The logic is long or complex
+b) Use a lambda function when:
+   - You only need the function once
+   - The code is short and simple
+   - You want to pass a quick function into another function
