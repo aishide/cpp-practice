@@ -111,10 +111,11 @@ int main() {
   return 0;
 }
 
+Result:
+10
 
 
 5. Capture by Reference
 
 
-Result:
-10
+
