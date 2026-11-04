@@ -95,3 +95,5 @@ Number: 3
 
 
 4. Capture Clause []
+You can use the [ ] brackets to give a lambda access to variables outside of it.
+This is called the capture clause.
