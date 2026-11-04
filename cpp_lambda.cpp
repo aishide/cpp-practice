@@ -73,3 +73,5 @@ Hello World!
 
 3. Using Lambdas in Loops : 
 
+#include <iostream>
+using namespace std;
