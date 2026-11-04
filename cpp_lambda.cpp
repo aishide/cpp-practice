@@ -71,5 +71,5 @@ Hello World!
 
 
 
-Using Lambdas in Loops : 
+3. Using Lambdas in Loops : 
 
