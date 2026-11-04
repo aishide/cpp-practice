@@ -66,7 +66,6 @@ int main() {
 
 
 Result:
-
 Hello World!
 Hello World!
 
