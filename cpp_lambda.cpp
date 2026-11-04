@@ -75,3 +75,13 @@ Hello World!
 
 #include <iostream>
 using namespace std;
+
+int main() {
+  for (int i = 1; i <= 3; i++) {
+    auto show = [i]() {
+      cout << "Number: " << i << "\n";
+    };
+    show();
+  }
+  return 0;
+}
