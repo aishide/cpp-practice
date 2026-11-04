@@ -110,3 +110,6 @@ int main() {
   show();
   return 0;
 }
+
+Result:
+10
