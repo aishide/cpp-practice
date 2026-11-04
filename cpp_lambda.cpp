@@ -134,3 +134,10 @@ Use the latest value of a variable (not just a copy), you can use [&] to capture
 
 Result:
 20
+
+
+  
+
+  
+  
+Regular Functions vs Lambda Functions
