@@ -91,3 +91,7 @@ Result:
 Number: 1
 Number: 2
 Number: 3
+
+
+
+4. Capture Clause []
