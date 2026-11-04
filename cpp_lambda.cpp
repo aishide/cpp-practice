@@ -130,3 +130,7 @@ Use the latest value of a variable (not just a copy), you can use [&] to capture
   show();
   return 0;
 }
+
+
+Result:
+20
