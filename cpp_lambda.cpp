@@ -125,3 +125,8 @@ Use the latest value of a variable (not just a copy), you can use [&] to capture
     cout << x;
   };
 
+  x = 20;  // Change x after the lambda is created
+
+  show();
+  return 0;
+}
