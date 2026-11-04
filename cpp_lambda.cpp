@@ -100,3 +100,13 @@ This is called the capture clause.
 
 Example: 
 the lambda captures the variable x by value (a copy):
+
+int main() {
+  int x = 10;
+  auto show = [x]() {
+    cout << x;
+  };
+
+  show();
+  return 0;
+}
