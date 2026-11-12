@@ -1,6 +1,6 @@
 //Aishi De
 
-
+//Taking user input
 //Number input 
 
 #include <iostream>
