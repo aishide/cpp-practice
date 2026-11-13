@@ -5,6 +5,8 @@
 
 // C++ provides some pre-defined functions, such as main(), which is used to execute code here.
 
+
+//function in cpp
 Syntax : 
 void myFunction() {
   // write the code you want here 
