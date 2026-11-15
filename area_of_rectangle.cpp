@@ -1,9 +1,12 @@
 // Aishi De 
 
 // area of reactangle code 
+
+//header
 #include <iostream>
 using namespace std;
 
+//main code
 int main() {
     //Area of a rectangle is length * breadth 
     
