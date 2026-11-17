@@ -1,5 +1,4 @@
 //Aishi De
-//Here we will weite "hello world" code in cpp
 
 #include <iostream>
 using namespace std;
